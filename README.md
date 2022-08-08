@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oluyimika
+- 👋 Hi, I’m @OluyimikaS
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data analysis using python
 - 💞️ I’m looking to collaborate on data analysis projects
